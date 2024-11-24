@@ -1,4 +1,4 @@
-# nudity-detection# Nudity Detection
+# Nudity Detection
 
 ## Overview
 
